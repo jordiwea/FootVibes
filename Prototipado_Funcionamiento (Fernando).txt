@@ -1,0 +1,33 @@
+Pantalla principal:
+
+	-Reproducir audio:
+		-Seleccionar archivo MIDI
+
+		-Grabar audio
+
+		-Vincular con instrumento
+
+	-Testear:
+
+	-Ajustes:
+		-Intensidad de vibración
+
+		-Reproducir sonido por defecto (SI/NO)
+
+		-Reasignar FootVibes (esferas)
+
+
+
+
+
+Funciones del prototipo:
+
+	-Seleccionar archivo MIDI: Busqueda del archivo MIDI en el dispositivo.
+	-Grabar audio: Activa el micrófono del dispositivo y graba el audio que quieras pero no se convierte a tiempo real.
+	-Vincular con instrumento: Se conectaría el instrumento al dispositivo y las notas se traducirían a tiempo real.
+
+	-Testear: Aparecerán las 8 notas de la escala y 
+
+	-Intensidad de vibración: 
+	-Reproducir sonido por defecto (SI/NO): Si la opción está marcada el sonido vibrará y se podrá escuchar también en el dispositivo, y si está desmarcada solamente vibrarán las esferas (esta opción dedicada a las personas que no son sordas por completo y pueden escuchar).
+	-Reasignar FootVibes (esferas): 
